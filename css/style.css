@@ -118,8 +118,7 @@ a.nav-link:hover {
 
 /* MODAL */
 .modal-header {
-    /* background: linear-gradient(#FF8C00, #FFD700); */
-    background: #000000;
+    background: linear-gradient(#FF8C00, #FFD700);
     font-family: 'PT Serif', serif;
 }
 
