@@ -15,7 +15,7 @@ body::-webkit-scrollbar-track {
     opacity: 0;     /* цвет дорожки */
 }
 body::-webkit-scrollbar-thumb {
-    background-color: #FF8C00;    /* цвет плашки */
+    background-color: #000000;    /* цвет плашки */
     border-radius: 20px;       /* закругления плашки */
     /* border: 3px solid orange;  padding вокруг плашки */
 }
